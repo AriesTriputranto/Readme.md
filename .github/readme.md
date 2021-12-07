@@ -1,7 +1,7 @@
 Menu<>pages
 present : 
 # This is a basic workflow to help you get started with Actions
-
+[workflow](workflow.json)
 name: CI
 
 # Controls when the workflow will run
@@ -14,16 +14,17 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
+[Dispatch](https://w3g.com/Dispatch)
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  build:[build](https://w3g.com)
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+  [Server](https://ubuntu.com)
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+  [platform](https://repository.github.com/io
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
