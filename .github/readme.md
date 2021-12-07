@@ -14,11 +14,11 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-[Dispatch](https://w3g.com/Dispatch)
+[Dispatch](https://IOS.com)
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:[build](https://w3g.com)
+  build:[build](https://ISO.com)
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
   [Server](https://ubuntu.com)
@@ -31,7 +31,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
-
+# [DomainPublic](https://worldwideweb.com)   
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
